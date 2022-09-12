@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpellCor Practice/SpellCor Practice.iml" filepath="$PROJECT_DIR$/SpellCor Practice/SpellCor Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpellCorrector Folders.iml" filepath="$PROJECT_DIR$/.idea/SpellCorrector Folders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpellinCorrector Exam/SpellinCorrector Exam.iml" filepath="$PROJECT_DIR$/SpellinCorrector Exam/SpellinCorrector Exam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpellingCorrecter Blank/SpellingCorrecter Blank.iml" filepath="$PROJECT_DIR$/SpellingCorrecter Blank/SpellingCorrecter Blank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpellingCorrecter Blank copy/SpellingCorrecter Blank copy.iml" filepath="$PROJECT_DIR$/SpellingCorrecter Blank copy/SpellingCorrecter Blank copy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpellingCorrecter Practice 2/SpellingCorrecter Practice 2.iml" filepath="$PROJECT_DIR$/SpellingCorrecter Practice 2/SpellingCorrecter Practice 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpellingCorrector/SpellingCorrector.iml" filepath="$PROJECT_DIR$/SpellingCorrector/SpellingCorrector.iml" />
+    </modules>
+  </component>
+</project>

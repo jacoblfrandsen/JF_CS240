@@ -1,0 +1,35 @@
+CREATE TABLE User (
+    Username TEXT NOT NULL,
+    Password TEXT NOT NULL,
+    Email TEXT NOT NULL,
+    FirstName TEXT NOT NULL,
+    LastName TEXT NOT NULL,
+    Gender TEXT,
+    PersonID TEXT NOT NULL
+);
+CREATE TABLE Person (
+    PersonID_ID TEXT NOT NULL,
+    Associated_Username TEXT,
+    FirstName TEXT NOT NULL,
+    LastName TEXT NOT NULL,
+    Gender TEXT,
+    FatherID TEXT,
+    MotherID TEXT,
+    SpouseID TEXT
+
+);
+CREATE TABLE Event (
+    Event ID TEXT NOT NULL,
+    AssociatedUsername TEXT,
+    PersonID TEXT,
+    Latitude REAL,
+    Longitude REAL,
+    Country TEXT,
+    City TEXT,
+    EventType TEXT,
+    Year INTEGER
+);
+CREATE TABLE AuthToken (
+    AuthToken TEXT,
+    Username TEXT
+);

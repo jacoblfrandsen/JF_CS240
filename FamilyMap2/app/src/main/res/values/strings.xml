@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="serverHostText">Server Host</string>
+    <string name="serverPortText">Server Port</string>
+    <string name="userNameText">UserName:</string>
+    <string name="passwordText">Password</string>
+    <string name="firstNameText">First Name:</string>
+    <string name="lastNameText">Last Name:</string>
+    <string name="emailText">Email:</string>
+    <string name="genderText">Gender:</string>
+    <string name="maleText">Male</string>
+    <string name="femaleText">Female</string>
+    <string name="signInText">SIGN IN</string>
+    <string name="registerText">REGISTER</string>
+    <string name="loginNotSuccessful">Login Failed</string>
+    <string name="loginNotSuccessfulPerson">User Does not exist</string>
+    <string name="registerNotSuccessful">Register Not Successful</string>
+    <string name="gettingPeopleFailed">Getting People Failed</string>
+    <string name="gettingPeopleSuccess">Getting People Success</string>
+    <string name="text_description_map">Click on an marker to see event details</string>
+    <string name="title_activity_person">PersonActivity</string>
+    <string name="first_name">First Name</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="maleString">Male</string>
+    <string name="femaleString">Female</string>
+    <string name="last_name">Last Name</string>
+    <string name="Gender">Gender</string>
+    <string name="gender">Gender</string>
+    <string name="mapMessage">Click on a marker \n to see event details</string>
+    <string name="logout">Logout</string>
+    <string name="life_story_lines">Life Story Lines</string>
+    <string name="life_story_lines_show">Show Life Story Lines</string>
+    <string name="family_tree_lines">Family Tree Lines</string>
+    <string name="tree_lines_show">Show Family Tree Lines</string>
+    <string name="spouse_lines_string">Spouse Lines</string>
+    <string name="spouse_lines_show">Show Spouse Lines</string>
+    <string name="string_father_side">Father\'s Side</string>
+    <string name="father_side_show">Filter By Father\'s Side of The Family</string>
+    <string name="string_mother_side">Mother\'s Side</string>
+    <string name="mother_side_show">Filter By Mother\'s Side of The Family</string>
+    <string name="male_events_string">Male Events</string>
+    <string name="male_events_show">Filter By Events Gender</string>
+    <string name="female_events_show">Filter By Events Gender</string>
+    <string name="female_events_string">Female Events</string>
+    <string name="returns_to_login_screen">Returns to Login Screen</string>
+
+</resources>
